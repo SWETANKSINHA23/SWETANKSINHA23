@@ -1,9 +1,9 @@
 -- 👋 Hi, I'm Swetank Sinha and My User Name is @SWETANKSINHA23
 
-• 💻 I'm interested in Machine Learning, Artificial Intelligence, Generative AI, Semantic Modeling & Data Science
-• 🌱 I'm currently learning Agentic AI, Explainable AI (XAI), and Reinforcement Learning
-• 💞️ I'm looking to collaborate on Python Integration and AI Projects
-• 📫 Reach me on LinkedIn at [@swetank23](https://www.linkedin.com/in/swetank23/)
+•I'm interested in Machine Learning, Artificial Intelligence, Generative AI, Semantic Modeling & Data Science
+•I'm currently learning Agentic AI, Explainable AI (XAI), and Reinforcement Learning
+•I'm looking to collaborate on Python Integration and AI Projects
+•Reach me on LinkedIn at [@swetank23](https://www.linkedin.com/in/swetank23/)
 
 ## Languages & Technologies:
 
