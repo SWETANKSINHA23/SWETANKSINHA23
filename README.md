@@ -49,16 +49,6 @@
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-%2300D9FF.svg?style=for-the-badge&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-%2320232a.svg?style=for-the-badge&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![Swetank's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWETANKSINHA23&show_icons=true&theme=dark&count_private=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SWETANKSINHA23&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SWETANKSINHA23&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWETANKSINHA23&layout=compact&theme=dark)
-
 ## 🏆 Achievements:
 - 🥇 **AIU International Anveshan**: National Winner (Mar 2025)
 - 🥇 **Cognitia 2025** – LPU Intra-University Tech Fest: First Place (Feb 2025)
